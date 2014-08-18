@@ -1,7 +1,7 @@
-base-2014
+simple
 =========
 
-This is the "base-2014" theme for Bolt. It is built with Foundation 5 and Sass, but you can use it
+This is the "simple" theme for Bolt. It is built with Foundation 5 and Sass, but you can use it
 as-is.
 
 To install manually, go to `theme/` and do a checkout: 
