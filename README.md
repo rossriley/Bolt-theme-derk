@@ -8,7 +8,7 @@ To install manually, go to `theme/` and do a checkout:
 
   git clone https://github.com/bolt/base-2014.git
 
-Set `theme: base-2014` in your `app/config/config.yml`, and you're good to go! 
+Set `theme: simple` in your `app/config/config.yml`, and you're good to go! 
 
 If you wish to modify this theme using Sass, be sure to install the 'Foundation'
 bower module, and start your favorite Sass parser, for example 'grunt':
